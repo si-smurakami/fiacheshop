@@ -1,0 +1,17 @@
+FiacheShop
+
+FiacheShop is online Fiache book store.
+
+Prerequisites
+
+pip3 install -r requirement.text
+
+How to start
+
+#> python3 main.py
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+ * WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.5000/ (Press CTRL+C to quit)
